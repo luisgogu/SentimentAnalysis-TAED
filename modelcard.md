@@ -4,8 +4,8 @@ language:
 license: {cc-by-4.0}  
 library_name: {PyTorch}  # Optional. Example: keras or any library from https://github.com/huggingface/hub-docs/blob/main/js/src/lib/interfaces/Libraries.ts
 tags:
-- {text-sentiment-analysis}
-- {natural-language-processing}
+- text-sentiment-analysis
+- natural-language-processing
 datasets:
 - {imdb}
 metrics:
