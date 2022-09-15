@@ -33,23 +33,41 @@ Fine-tuning of BERT Model.
 
 ## Limitations
 
+The quality of user's input may impact the accuracy of the results. The factors that may detriment accuracy are:
+
+- Too short text
+- not natural language
+
+**- pensar altres exemples**
+
 ## Ethical Considerations
 
-Sentiment analysis tools are increasingly used everywhere. As sentimens and emotions are nuclear issues in people's life, they are full of ethical concerns. Indeitifying sentiments can be used to improve people's lives but it also provides the option of abusing of this information in order to manipulate or harm people. 
+Sentiment analysis tools are increasingly used everywhere. As sentiments and emotions are nuclear issues in people's lives, they are full of ethical concerns. Indentifying sentiments can be used to improve people's lives but it also carries the option of abusing of this information in order to manipulate or harm people in many ways (think about using this to discard people from job selection processes, to assist the police or judges, to impact on the intention of vote in democratic elections an so far). 
 
-https://medium.com/@nlpscholar/ethics-sheet-aer-b8d671286682
 
 ## Carbon Footprint Evaluation
 
-In order to fight climate change and to protect the planet health it is mandatory to develop green technology. One side of this green technology is about spending as less energy as possible in the development of ML models. So it is necessary to know the energy cost of each model. In this project the estimation of energy consumption has been done through the Code Carbon profiler (https://codecarbon.io) and computing the FLOPs required to train the model using the keras-flops4 package for TensorFlow (https://github.com/tokusumi/keras-flops).
+In order to fight climate change and to protect the planet health it is mandatory to develop green technology. One side of this green technology is about spending as less energy as possible in the development of ML models. So it is necessary to provide transparency regarding the energy burden of each model. In this project the estimation of energy consumption has been done through the Code Carbon profiler (https://codecarbon.io) and computing the FLOPs required to train the model using the keras-flops4 package for TensorFlow (https://github.com/tokusumi/keras-flops).
 
 ## Metrics
+
+The metrics used to evaluate the performance of the model have been **accuracy** and **F1 score**.
+
+F1 Score is dedicated to solve the problem of imbalanced training data and is builded on Precision and Recall metrics.
+
+$$Accuracy = \frac{CorrectPredictions}{TotalPredictions}$$
+
+$$F1  Score = 2*\frac{Precision * Recall}{Precision + Recall}$$
 
 ## Training en Evaluation Data
 
 ## Quantitative Analysis
 
-## Summary
+## Suported Inputs
+
+**Posar quin format d'entrada de text accepta**
+
+## Table Summary
 
 | Language | license   | library_name | tags                       | datasets | metrics |
 | :------: | :-----:   | :-----:      | :------:                   |:--------:|:------: |
