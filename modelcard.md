@@ -1,5 +1,62 @@
-# Hola
----
+# Model Card for Sentiment Analysis Project. TAED2. HeartTeam
+
+## Persons and Organization
+Joel Castaño, Luis Gonzalez, Alex Muñoz, Mireia Andres
+
+
+Heart Team. Subject: TAED2. UPC.
+
+## Contact
+
+Please, you are welcome to adress questions and comments about the model to mireia.andres@estudiantat.upc.edu
+
+## Model Date and Version
+
+- October 2022
+- Version 1.0
+
+## Model Type
+
+Text analysis model for sentiment recognition.
+
+Fine-tuning of BERT Model.
+
+**Aquí hauríem d'explicar més detalladament les etapes del model**
+
+## Intended Use
+
+### Intended Primary Users
+
+### Intend Primary Uses
+
+## Out-of-Scope Uses
+
+## Limitations
+
+## Ethical Considerations
+
+Sentiment analysis tools are increasingly used everywhere. As sentimens and emotions are nuclear issues in people's life, they are full of ethical concerns. Indeitifying sentiments can be used to improve people's lives but it also provides the option of abusing of this information in order to manipulate or harm people. 
+
+https://medium.com/@nlpscholar/ethics-sheet-aer-b8d671286682
+
+## Carbon Footprint Evaluation
+
+In order to fight climate change and to protect the planet health it is mandatory to develop green technology. One side of this green technology is about spending as less energy as possible in the development of ML models. So it is necessary to know the energy cost of each model. In this project the estimation of energy consumption has been done through the Code Carbon profiler (https://codecarbon.io) and computing the FLOPs required to train the model using the keras-flops4 package for TensorFlow (https://github.com/tokusumi/keras-flops).
+
+## Metrics
+
+## Training en Evaluation Data
+
+## Quantitative Analysis
+
+## Summary
+
+| Language | license   | library_name | tags                       | datasets | metrics |
+| :------: | :-----:   | :-----:      | :------:                   |:--------:|:------: |
+| eng      | cc-by-4.0 | PyTorch      | text-sentiment-analysis    |  imdb    |accuracy |
+|          |           |              |natural-language-processing |          |f1       |
+
+
 - language:
 eng
 - license: 
