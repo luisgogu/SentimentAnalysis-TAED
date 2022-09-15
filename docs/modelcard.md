@@ -10,6 +10,13 @@ Heart Team. Subject: TAED2. UPC.
 
 Please, you are welcome to adress questions and comments about the model to mireia.andres@estudiantat.upc.edu
 
+## Table of Contents
+- [Model Date and Version](#model-date-and-version)
+- [Model Type](#model-type)
+- [Intended Use](#intended-use)
+  - [Intended Primary Users](#intended-primary-users)
+
+
 ## Model Date and Version
 
 - October 2022
