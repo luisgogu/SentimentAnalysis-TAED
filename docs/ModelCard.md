@@ -24,12 +24,9 @@ Please, you are welcome to adress questions and comments about the model to mire
 
 ## Model Type
 
-Text analysis model for sentiment recognition.
+Text analysis model for sentiment classification.
 
 Fine-tuning of BERT Model.
-
-**Aquí hauríem d'explicar més detalladament les etapes del model**
-
 
 ## Intended Use
 
@@ -55,9 +52,6 @@ The quality of user's input may impact the accuracy of the results. The factors 
 - Content text (topic): different from movie opinion.
 - Content text: very neutral comments.
 - Content text: too short text (not rich from the sentiment point of view).
-
-
-**- pensar altres exemples**
 
 ## Ethical Considerations
 
