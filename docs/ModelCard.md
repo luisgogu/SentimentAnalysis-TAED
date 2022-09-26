@@ -11,20 +11,20 @@ Heart Team. Subject: TAED2. UPC.
 Please, you are welcome to adress questions and comments about the model to mireia.andres@estudiantat.upc.edu
 
 ## Table of Contents
-- [Model Date and Version](#model-date-and-version)
-- [Model Type](#model-type)
-- [Intended Use](#intended-use)
-  - [Intended Primary Users](#intended-primary-users)
-  - [Intend Primary Uses](#intend-primary-uses)
-- [Out-of-Scope Uses](#out-of-scope-uses)
-- [Limitations](#limitations) 
-- [Ethical Considerations](#ethical-considerations)
-- [Carbon Footprint Evaluation](#carbon-footprint-evaluation)
-- [Metrics](#metrics)
-- [Training and Evaluation Data](#training-and-evaluation-data)
-- [Quantitative Analysis](#quantitative-analysis)
-- [Suported Inputs](#suported-inputs)
-- [Table Summary](#table-summary)
+- [1. Model Date and Version](#model-date-and-version)
+- [2. Model Type](#model-type)
+- [3. Intended Use](#intended-use)
+  - [3.1. Intended Primary Users](#intended-primary-users)
+  - [3.2. Intend Primary Uses](#intend-primary-uses)
+- [4. Out-of-Scope Uses](#out-of-scope-uses)
+- [5. Limitations](#limitations) 
+- [6. Ethical Considerations](#ethical-considerations)
+- [7. Carbon Footprint Evaluation](#carbon-footprint-evaluation)
+- [8. Metrics](#metrics)
+- [9. Training and Evaluation Data](#training-and-evaluation-data)
+- [10. Quantitative Analysis](#quantitative-analysis)
+- [11. Suported Inputs](#suported-inputs)
+- [12. Table Summary](#table-summary)
 
 
 ## Model Date and Version
