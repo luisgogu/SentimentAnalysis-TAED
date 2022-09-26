@@ -106,7 +106,7 @@ imdb
 accuracy
 f1
 
-
+model-index:
 - name: {model_01}
   results:
   - task:
