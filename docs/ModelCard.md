@@ -55,7 +55,6 @@ The quality of user's input may impact the accuracy of the results. The factors 
 
 Sentiment analysis tools are increasingly used everywhere. As sentiments and emotions are nuclear issues in people's lives, they are full of ethical concerns. Indentifying sentiments can be used to improve people's lives but it also carries the option of abusing of this information in order to manipulate or harm people in many ways (think about using this to discard people from job selection processes, to assist the police or judges, to impact on the intention of vote in democratic elections an so far). Any use intended to make an individual analysis focused on judging persons should be considered a misuse of this model.
 
-
 ## Carbon Footprint Evaluation
 
 In order to fight climate change and to protect the planet health it is mandatory to develop green technology. One side of this green technology is about spending as less energy as possible in the development of ML models. So it is necessary to provide transparency regarding the energy burden of each model. In this project the estimation of energy consumption has been done through the Code Carbon profiler (https://codecarbon.io) and computing the FLOPs required to train the model using the keras-flops4 package for TensorFlow (https://github.com/tokusumi/keras-flops).
@@ -107,3 +106,21 @@ imdb
 accuracy
 f1
 
+---
+- name: {model_01}
+  results:
+  - task:
+      type: {text-sentiment-analysis}
+      name: {Natural Language Process}
+    dataset:
+      type: {imdb}
+      name: {IMDB Movie Reviews}      
+      split: {50/50}       
+    metrics:
+        type: {F1-Score}         
+        value: {0.49}       
+        name: {Validation F1}
+        type: {Accuracy}         
+        value: {93.52%}       
+        name: {Validation Acc}
+---
