@@ -106,7 +106,7 @@ imdb
 accuracy
 f1
 
----
+
 - name: {model_01}
   results:
   - task:
@@ -123,4 +123,4 @@ f1
         type: {Accuracy}         
         value: {93.52%}       
         name: {Validation Acc}
----
+
