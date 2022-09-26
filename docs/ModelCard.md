@@ -15,6 +15,16 @@ Please, you are welcome to adress questions and comments about the model to mire
 - [Model Type](#model-type)
 - [Intended Use](#intended-use)
   - [Intended Primary Users](#intended-primary-users)
+  - [Intend Primary Uses](#intend-primary-uses)
+- [Out-of-Scope Uses](#out-of-scope-uses)
+- [Limitations](#limitations) 
+- [Ethical Considerations](#ethical-considerations)
+- [Carbon Footprint Evaluation](#carbon-footprint-evaluation)
+- [Metrics](#metrics)
+- [Training and Evaluation Data](#training-and-evaluation-data)
+- [Quantitative Analysis](#quantitative-analysis)
+- [Suported Inputs](#suported-inputs)
+- [Table Summary](#table-summary)
 
 
 ## Model Date and Version
@@ -69,7 +79,7 @@ $$Accuracy = \frac{CorrectPredictions}{TotalPredictions}$$
 
 $$F1  Score = 2*\frac{Precision * Recall}{Precision + Recall}$$
 
-## Training en Evaluation Data
+## Training and Evaluation Data
 
 We used a 50/50 split of the data, as the original dataset has already 2 folders splited between Train and Evaluation data.
 
