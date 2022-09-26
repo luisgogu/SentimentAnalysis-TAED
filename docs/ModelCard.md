@@ -24,9 +24,7 @@ Please, you are welcome to adress questions and comments about the model to mire
 
 ## Model Type
 
-Text analysis model for sentiment classification.
-
-Fine-tuning of BERT Model.
+The model consists on a BERT backbone that process the input text and outputs it into a Linear layer that will focus on the classification task. The BERT model is fine-tuned to be specialised in our task.
 
 ## Intended Use
 
