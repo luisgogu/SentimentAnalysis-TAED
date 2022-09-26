@@ -74,11 +74,13 @@ $$F1  Score = 2*\frac{Precision * Recall}{Precision + Recall}$$
 
 ## Training en Evaluation Data
 
+We used a 50/50 split of the data, as the original dataset has already 2 folders splited between Train and Evaluation data.
+
 ## Quantitative Analysis
 
 ## Suported Inputs
 
-**Posar quin format d'entrada de text accepta**
+Any string input is accepted. The text will be pre-processed automatically in order to erase useless content. As long as it is string data, it will be suported.
 
 ## Table Summary
 
@@ -93,7 +95,11 @@ eng
 - license: 
 cc-by-4.0
 - library_name: 
-PyTorch  # Optional. Example: keras or any library from https://github.com/huggingface/hub-docs/blob/main/js/src/lib/interfaces/Libraries.ts
+PyTorch
+Sklearn
+Pandas
+MLflow
+pyngrok
 - tags:
 text-sentiment-analysis
 natural-language-processing
