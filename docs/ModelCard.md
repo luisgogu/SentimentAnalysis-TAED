@@ -80,23 +80,6 @@ We used a 50/50 split of the data, as the original dataset has already 2 folders
 | model_01 | imdb    | 0.49          | 93.52%        | 0.368     | 3             |
 |          |         |               |               |           |               |    
 
-- name: {model_01}
-  results:
-  - task:
-      type: {text-sentiment-analysis}
-      name: {Natural Language Process}
-    dataset:
-      type: {imdb}
-      name: {IMDB Movie Reviews}      
-      split: {50/50}       
-    metrics:
-        type: {F1-Score}         
-        value: {0.49}       
-        name: {Validation F1}
-        type: {Accuracy}         
-        value: {93.52%}       
-        name: {Validation Acc}
-
 ## Suported Inputs
 
 Any string input is accepted. The text will be pre-processed automatically in order to erase useless content. As long as it is string data, it will be suported.
