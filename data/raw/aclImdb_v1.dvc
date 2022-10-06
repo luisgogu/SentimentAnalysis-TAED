@@ -1,0 +1,5 @@
+outs:
+- md5: 07a4648f07f2378006a8c8a437996796.dir
+  size: 221218527
+  nfiles: 100011
+  path: aclImdb_v1
