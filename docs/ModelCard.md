@@ -11,6 +11,7 @@ Heart Team. Subject: TAED2. UPC.
 Please, you are welcome to adress questions and comments about the model to mireia.andres@estudiantat.upc.edu
 
 ## Table of Contents
+
 - [1. Model Date and Version](#model-date-and-version)
 - [2. Model Type](#model-type)
 - [3. Intended Use](#intended-use)
@@ -26,14 +27,12 @@ Please, you are welcome to adress questions and comments about the model to mire
 - [11. Suported Inputs](#suported-inputs)
 - [12. Table Summary](#table-summary)
 
-
 ## Model Date and Version
 
 - October 2022
 - Version 1.0
 
 ## Model Type
-
 The model consists on a BERT backbone that process the input text and outputs it into a Linear layer that will focus on the classification task. The BERT model is fine-tuned to be specialised in our task.
 
 ## Intended Use
@@ -107,11 +106,13 @@ eng
 - license: 
 cc-by-4.0
 - library_name: 
+
 PyTorch
 Sklearn
 Pandas
 MLflow
 pyngrok
+
 - tags:
 text-sentiment-analysis
 natural-language-processing
@@ -120,7 +121,3 @@ imdb
 - metrics:
 accuracy
 f1
-
-
-
-
