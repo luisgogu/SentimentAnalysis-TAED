@@ -23,10 +23,10 @@ Installing Code Carbon:
 ### Run yout model (GPU Intensive code goes here)
 `model.fit(x_train, y_train, epochs=10)`
 
-# End the emissions tracker
+### End the emissions tracker
 `emissions: float = tracker.stop()`
 
-# Print your results regarding carbon emissions
+### Print your results regarding carbon emissions
 `print(emissions)`
 
 Installing Comet package:
