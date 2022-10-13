@@ -29,4 +29,37 @@ https://huggingface.co/docs/transformers/v4.19.0/es/training
 ### Cookiecutter
 
 https://www.cookiecutter.io
+
+https://drivendata.github.io/cookiecutter-data-science/
   
+### Carbon Footprint
+
+https://codecarbon.io
+
+The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink. David Patterson, Joseph Gonzalez, Urs Hölzle, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, Jeff Dean. arXiv:2204.05149 [cs.LG]
+
+Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models. Lasse F. Wolff Anthony and Benjamin Kanding and Raghavendra Selvan. ArXiv, 2020, volume={abs/2007.03051}
+
+Green Algorithms: Quantifying the carbon footprint of computation. Loïc Lannelongue, Jason Grealey, Michael Inouye. arXiv:2007.07610 [cs.CY]
+
+http://green-algorithms.org
+
+### Pynblint
+
+Pynblint: a Static Analyzer for Python Jupyter Notebooks. Luigi Quaranta, Fabio Calefato, Filippo Lanubile. arXiv:2205.11934 [cs.SE]
+
+Eliciting Best Practices for Collaboration with Computational Notebooks. Luigi Quaranta, Fabio Calefato, F. Lanubile. Proceedings of the ACM on Human-Computer Interaction}. 2022. Volume 6:1-41.
+
+Understanding and improving the quality and reproducibility of Jupyter notebooks. Joao Felipe Pimentel and Leonardo Gresta Paulino Murta and Vanessa Braganholo and Juliana Freire. Empirical Software Engineering. 2021. Volum
+
+### Pytest
+
+https://pytest.org
+
+### Great Expectations
+
+https://greatexpectations.io
+
+### FastAPI
+
+https://fastapi.tiangolo.com
