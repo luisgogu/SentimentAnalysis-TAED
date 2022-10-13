@@ -62,6 +62,11 @@ https://pytest.org
 
 https://greatexpectations.io
 
+### Architecture
+
+Integration of Convolutional Neural Networks in Mobile Applications. Roger Creus Castanyer, Silverio Martínez-Fernández, Xavier Franch. arXiv:2103.07286 [cs.LG]
+
+
 ### FastAPI
 
 https://fastapi.tiangolo.com
