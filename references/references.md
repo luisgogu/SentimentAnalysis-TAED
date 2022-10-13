@@ -44,6 +44,8 @@ Green Algorithms: Quantifying the carbon footprint of computation. Loïc Lannelo
 
 http://green-algorithms.org
 
+Green Algorithms: Quantifying the Carbon Footprint of Computation. Lannelongue, L., Grealey, J., Inouye, M. Adv. Sci. 2021, 2100707. https://doi.org/10.1002/advs.202100707
+
 ### Pynblint
 
 Pynblint: a Static Analyzer for Python Jupyter Notebooks. Luigi Quaranta, Fabio Calefato, Filippo Lanubile. arXiv:2205.11934 [cs.SE]
