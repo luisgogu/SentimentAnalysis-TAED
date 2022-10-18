@@ -40,8 +40,6 @@ The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink. Dav
 
 Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models. Lasse F. Wolff Anthony and Benjamin Kanding and Raghavendra Selvan. ArXiv, 2020, volume={abs/2007.03051}
 
-Green Algorithms: Quantifying the carbon footprint of computation. Loïc Lannelongue, Jason Grealey, Michael Inouye. arXiv:2007.07610 [cs.CY]
-
 http://green-algorithms.org
 
 Green Algorithms: Quantifying the Carbon Footprint of Computation. Lannelongue, L., Grealey, J., Inouye, M. Adv. Sci. 2021, 2100707. https://doi.org/10.1002/advs.202100707
