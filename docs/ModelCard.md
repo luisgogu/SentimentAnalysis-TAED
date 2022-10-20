@@ -69,9 +69,9 @@ Sentiment analysis tools are increasingly used everywhere. As sentiments and emo
 In order to fight climate change and to protect the planet health it is mandatory to develop green technology. One side of this green technology is about spending as less energy as possible in the development of ML models. So it is necessary to provide transparency regarding the energy burden of each model. In this project the tracking of energy consumption has been done with the Python's Code Carbon package (https://codecarbon.io). This study has been applied to the training process.
 
 
-| Duration | Total Energy Consumed | Training Type | Source      | Location | Carbon Emissions estimation | 
-| :-------:| :-------------------: | :-----------: | :---------: | :------: | :-------------------------: | 
-| 3h13min  | 374,13Wh              | Fine Tuning   | Code Carbon | USA - Columbia District | 82.4g        | 
+| Training Type | Source      | Location                | Duration | Total Energy Consumed | Carbon Emissions estimation | 
+| :------------:| :---------: | :---------------------: | :------: | :-------------------: | :-------------------------: | 
+| Fine Tuning   | Code Carbon | USA - Columbia District | 3h13min  | 374,13Wh              | 82.4g                       | 
 
 
 
